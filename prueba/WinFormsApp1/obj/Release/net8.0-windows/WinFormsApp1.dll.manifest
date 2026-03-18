@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="17392">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="16384">
       <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>AmN+xtZ8bX1wJuxrXbAdw7NJXpf8mi5jdM7k1q2JDhg=</dsig:DigestValue>
+        <dsig:DigestValue>co2gX+IH6CpH7AXebDHb+P2t2zbxo0OtvKdAkhEH5mI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,22 +62,22 @@
       <dsig:DigestValue>IscGOlchf/73TX6t3vI5KeR5Z9prWP1sEtKpg77BDCo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WinFormsApp1.dll" size="7152">
+  <file name="WinFormsApp1.dll" size="5632">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ZVcYDTXGW6C2vdRS1VMveIsCjBuAjYlfeo/rbS4rjdE=</dsig:DigestValue>
+      <dsig:DigestValue>X/jVd0ediD+v0/4j5hntVO+Gzm68bjLKd4sHh6MhdcY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WinFormsApp1.exe" size="152560">
+  <file name="WinFormsApp1.exe" size="151040">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>e7ewuAxVGfoxkf18dnS4k3Ejwb+A+UD1uMNbQWG5CB0=</dsig:DigestValue>
+      <dsig:DigestValue>yzXCXezOWNifokVf7kqIksadGedD00PcaJAaBfFixls=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WinFormsApp1.runtimeconfig.json" size="515">
