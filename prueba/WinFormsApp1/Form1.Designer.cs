@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            label2 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -41,21 +40,11 @@
             label1.TabIndex = 0;
             label1.Text = "pruebas de actualizaciones";
             // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(269, 133);
-            label2.Name = "label2";
-            label2.Size = new Size(54, 15);
-            label2.TabIndex = 1;
-            label2.Text = "version 2";
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(560, 223);
-            Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
@@ -66,6 +55,5 @@
         #endregion
 
         private Label label1;
-        private Label label2;
     }
 }
