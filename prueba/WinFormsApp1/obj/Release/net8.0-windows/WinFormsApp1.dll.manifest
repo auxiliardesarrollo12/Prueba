@@ -68,7 +68,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>X/jVd0ediD+v0/4j5hntVO+Gzm68bjLKd4sHh6MhdcY=</dsig:DigestValue>
+      <dsig:DigestValue>9LKP25SWzh25mITIGJCRJ4RfPHZDm8oM4O0hKubH5Gs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WinFormsApp1.exe" size="151040">
@@ -77,7 +77,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>yzXCXezOWNifokVf7kqIksadGedD00PcaJAaBfFixls=</dsig:DigestValue>
+      <dsig:DigestValue>7BbAP9Ib6Nl9nYMjL75k4erLA9vf1+zNL6GwO18pM84=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WinFormsApp1.runtimeconfig.json" size="515">
