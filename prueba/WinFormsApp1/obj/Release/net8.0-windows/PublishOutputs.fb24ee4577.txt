@@ -1,0 +1,5 @@
+C:\prueba\prueba\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.exe
+C:\prueba\prueba\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.dll
+C:\prueba\prueba\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.deps.json
+C:\prueba\prueba\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.runtimeconfig.json
+C:\prueba\prueba\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.pdb
