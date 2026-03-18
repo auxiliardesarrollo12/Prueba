@@ -30,6 +30,7 @@
         {
             label1 = new Label();
             label2 = new Label();
+            label3 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -50,11 +51,21 @@
             label2.TabIndex = 1;
             label2.Text = "version 2 ";
             // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(305, 117);
+            label3.Name = "label3";
+            label3.Size = new Size(42, 15);
+            label3.TabIndex = 2;
+            label3.Text = "djfbjfb";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(560, 223);
+            Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form1";
@@ -67,5 +78,6 @@
 
         private Label label1;
         private Label label2;
+        private Label label3;
     }
 }
